@@ -3,7 +3,7 @@
 1. git init
 2. git add .
 3. git commit -m "first commit"
-4. git remote add origin https://github.com/(nama akun lu)/(repo lu)
+4. git remote add origin https://github.com/(nama_akun_lu)/(repo_lu)
 5. git branch -m main
 6. git push -u origin main
 
