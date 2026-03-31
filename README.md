@@ -11,3 +11,10 @@
 1. git add .
 2. git commit -m "commit yang ke dua"
 3. git push / git push origin main
+
+# error?
+kalau masih error coba cek
+1. git status
+2. git remote -v
+3. git log --oneline kalau di push masih ga bisa palai ini
+4. git push --set-upstream origin main
